@@ -1,0 +1,19 @@
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\bin\Debug\Circulos.exe.config
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\bin\Debug\Circulos.exe
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\bin\Debug\Circulos.pdb
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\obj\Debug\Circulos.DebugForm.resources
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\obj\Debug\Circulos.MainForm.resources
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\obj\Debug\Circulos.csproj.GenerateResource.Cache
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\obj\Debug\Circulos.exe
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\obj\Debug\Circulos.pdb
+C:\Users\edblo\Documents\SharpDevelop Projects\Circulos\Circulos\obj\Debug\Circulos.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\bin\Debug\Circulos.exe.config
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\bin\Debug\Circulos.exe
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\bin\Debug\Circulos.pdb
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.DebugForm.resources
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.MainForm.resources
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.exe
+C:\Users\DELL\OneDrive\Documents\GitHub\Circulos\Circulos\obj\Debug\Circulos.pdb
