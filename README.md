@@ -4,6 +4,7 @@ Windows application in which you can upload an image, which will get analyzed by
 This program uses multiple strategies to analyze images in a bitmap, and based on the colors and shapes in the image, produce a unique map which can then be used for the simulation.
 
 -HOW TO USE-
+
 The first button, the only one that you can select at the beginning, is to upload the image. You can use one of the example images in the folder "Images", or you can create your own! But be careful of reading the instrucions (explained on "IMAGE REQUIREMENTS TO CREATE A MAP"), otherwise the program might not work.
 Once the image has been uploaded, you have to click in "Crear grafo" which stands for "create graph", then the map gets created and the simulation can begin!
 
@@ -22,6 +23,7 @@ Aditionally, you can change some of the settings for the simulation in the menu.
 Once everything is ready, you can start the simulation!
 
 -IMAGE REQUIREMENTS TO CREATE A MAP-
+
 The background has to be white. Anything other than white will be taken as a circle or an obstacle.
 The program detects anything with at least 1 black pixel as a circle, which will then be converted into a node for the preys and hunters to be, or the goal in any case.
 The circle doesn't have to be perfect, as the program can tell if a grey or cropped area is actually part of a circle, simply... blurry.
